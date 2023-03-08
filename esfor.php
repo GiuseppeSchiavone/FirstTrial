@@ -8,3 +8,5 @@ echo " somma parziale: ".$somma."<br/>";
 }
 echo " somma totale: ".$somma."<br/>";
 ?>
+
+# questo commento è solo per git
